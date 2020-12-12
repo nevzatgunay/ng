@@ -3,11 +3,11 @@ The package is like my portfolio
 
 ### How to Develop
 
-After cloning, on the root folder, type `node ng.js`
+After cloning, on the root folder, type `node nevzatgunay.js`
 
 ### How to Use
 
-In the terminal, type `npx ng`
+In the terminal, type `npx nevzatgunay`
 
 ### Used Technologies
 
