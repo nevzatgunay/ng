@@ -1,16 +1,15 @@
 {
-  "name": "ng",
+  "name": "nevzatgunay",
   "version": "0.0.1",
   "description": "About Nevzat Günay",
   "bin": {
-    "ng": "ng.js"
+    "nevzatgunay": "nevzatgunay.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nevzatgunay/ng.git"
   },
   "keywords": [
-    "ng",
     "nevzatgunay",
     "Nevzat Günay",
     "Nevzat Gunay"
